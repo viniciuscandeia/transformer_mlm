@@ -1,0 +1,7 @@
+tf-nightly
+keras_hub
+pandas
+numpy
+tensorflow
+torch
+ipywidgets
