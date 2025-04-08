@@ -1,7 +1,7 @@
-tf-nightly
 keras_hub
 pandas
 numpy
 tensorflow
-torch
 ipywidgets
+torch==2.6.0+cu118
+matplotlib
