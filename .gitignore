@@ -9,3 +9,4 @@ __pycache__/
 musicas/
 corpus-musicas-brasileiras.csv
 bert_mlm.keras
+*.txt

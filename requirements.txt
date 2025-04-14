@@ -3,5 +3,5 @@ pandas
 numpy
 tensorflow
 ipywidgets
-torch
 matplotlib
+spacy
